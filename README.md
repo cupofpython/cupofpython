@@ -1,8 +1,8 @@
 # print("Hello world!")
-I am Sam Morris, a Senior Solutions Architect at GitLab. I am passionate about optimizing business solutions and customer success. I was previously a Technical Account Manager (TAM) and Customer Success Manager (CSM) at GitLab. 
+I am Sam Morris, a Senior Solutions Architect at Docker. I am passionate about optimizing business solutions and customer success. I was previously a Technical Account Manager (TAM) and Customer Success Manager (CSM) at GitLab, then a Solutions Architect (technical pre-sales) at GitLab.
 
 ## About Me
-Born and raised in Orlando Florida, I grew up riding rollercoasters and "taking long walks on the beach." I studied computer science && technical communication at the University of Central Florida and worked in software development at Amazon Alexa and software quality at Lockheed Martin  before I came to GitLab seeking a fast-paced, remote tech job. I am a Slytherin :snake:, a horror film fan :ghost:, and a coffee enthusiast :coffee:. My weapon of choice is a good Python library and the VS Code or PyCharm IDE. I love learning new things every day and serving others -- it's the best part of my job! :fox:
+Born and raised in Orlando Florida, I grew up riding rollercoasters and "taking long walks on the beach." I studied computer science && technical communication at the University of Central Florida and worked in software development at Amazon Alexa and software quality at Lockheed Martin  before I came to GitLab seeking a fast-paced, remote tech job. I joined the Docker team in February 2025 and am excited to dive into containers! Now I spend my time outside of work studying for my MS in Computer Science online at Georgia Tech. I am a Slytherin :snake:, a horror film fan :ghost:, and a coffee enthusiast :coffee:. My weapon of choice is a good Python library and the VS Code or PyCharm IDE. I love learning new things every day and serving others -- it's the best part of my job! 🐳
 
 My hobbies include:
 - Coding :computer:
