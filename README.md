@@ -7,7 +7,6 @@ Born and raised in Orlando Florida, I grew up riding rollercoasters and "taking 
 My hobbies include:
 - Coding :computer:
 - Rock Climbing 🧗 
-- Archery :bow_and_arrow:
 
 ## Solutions I'm Proud Of
 - [Accelerate Compliance](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/accelerate-compliance): Apply a compliance framework to all projects in a given group, retroactively
